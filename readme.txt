@@ -6,8 +6,7 @@ Tested up to: 6.0
 Stable tag: 1.1.5
 Requires PHP: 5.6
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
+License URI: https://buylivecc.info/
 Simplest Multi-currency wallet for WordPress.
 
 == Description ==
